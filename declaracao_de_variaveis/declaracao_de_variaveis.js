@@ -14,7 +14,7 @@ function iniciarTime(iniciaJogo: boolean) {
 
 iniciarTime(false);
 */
-//let -> variáveis definidas com 'let' são acessadas somente dentro do escopo onde elas foramd efinidas
+//let -> variáveis definidas com 'let' são acessadas somente dentro do escopo onde elas foram definidas
 /*
 function iniciarTime(iniciaJogoEmUberlandia: boolean) {
     
